@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Nurali0330nur
-- 👀 I’m interested in ML/AI
-- 🌱 I’m currently learning Python
-- 😄 Pronouns: i am straight
+wassup ._.
   
 
 <!---
